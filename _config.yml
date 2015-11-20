@@ -1,0 +1,28 @@
+name: vem_testing
+favicon: null
+layout_spectrum: 0.7220890028402209
+typography_spectrum: 0.06116193998605013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6120475723873824
+  lightness: 0.2812250170391053
+  saturation: 0.6683943062089384
+  rhythmicContrast: 0.6207954564597458
+purpose: []
