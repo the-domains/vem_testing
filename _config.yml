@@ -2,6 +2,7 @@ name: vem_testing
 favicon: null
 layout_spectrum: 0.7220890028402209
 typography_spectrum: 0.06116193998605013
+title: VEM Testing
 cta:
   domain: null
   bucket: null
